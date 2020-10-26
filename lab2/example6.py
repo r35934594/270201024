@@ -1,0 +1,6 @@
+v1=int(input("Enter the first velocity:"))
+v2=int(input("Enter the second velocity:"))
+x1=int(input("Enter the first distance:"))
+x2=int(input("Enter the second distance:"))
+t=(x1-x2)/(v1+v2)
+print(t*60)
