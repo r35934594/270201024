@@ -10,7 +10,7 @@ if discriminant>0:
   print("First x value is ", x_1 ,"and the second value is ",x_2)
 elif discriminant==0:
   x=-b/(2*a)
-  print("x is ",x)
+  print("x s ",x)
 else:
   x_1=-b/(2*a)
   i_1=((-discriminant)**(1/2))/(2*a)
