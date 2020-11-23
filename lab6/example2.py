@@ -2,9 +2,9 @@ students=int(input("How many students are there?"))
 grades=[]
 final_grades=[]
 for i in range(students):
-  midterm1=int(input("Please enter the student's first midter:"))
+  midterm1=int(input("Please enter the student's first midterm:"))
     
-  midterm2=int(input("Please enter the student's second midter:"))
+  midterm2=int(input("Please enter the student's second midterm:"))
   
   final=int(input("Please enter the student's final:"))
    
