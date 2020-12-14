@@ -3,6 +3,7 @@ n=int(input("How big is your matrix going to be?"))
 lst=[]
 counter=0
 sum=0
+
 for i in range(n**2):
   num=int(input("Enter your number here:"))
   lst.append(num)

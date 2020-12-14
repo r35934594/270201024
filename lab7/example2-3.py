@@ -1,4 +1,4 @@
-books={"ULYSSES","ANIMAL FARM","BRAVE NEW WORLD","ENDER'S GAME"}
+books=["ULYSSES","ANIMAL FARM","BRAVE NEW WORLD","ENDER'S GAME"]
 book_dict={}
 val1,val2,val3=0,0,0
 tup=0
