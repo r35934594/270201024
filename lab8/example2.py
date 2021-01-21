@@ -12,6 +12,4 @@ def print_primes_between(x,y):
 
 x=int(input("Enter an integer:"))
 y=int(input("Enter an integer:"))
-print(is_prime(x))
-print(is_prime(y))
 print_primes_between(x,y)
